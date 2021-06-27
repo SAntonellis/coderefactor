@@ -161,7 +161,7 @@ p {
     color: #ffffff;
 }
 
-/* consolidated SEO elements with duplicate values so they're easier to read and modify */
+/* consolidated SEO elements with duplicate values */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
