@@ -1,3 +1,3 @@
 # coderefactor
 
-This repo contains the HTML/CSS files and image assets for the Horiseon website. I have updated both of the HTML and CSS code documentation with comments that illustrate what briefly what each section of code is responsible for. I have also rearranged some of the coding structure for easier readability, consolidating classes in CSS that have duplicate values and using semantic HTML elements. 
+This repo contains the HTML/CSS files and image assets for the Horiseon website. I have updated both of the HTML and CSS code documentation with comments that illustrate what briefly what each section of code is responsible for. I have also rearranged some of the coding structure for easier readability, added alt text to images for accessibility, consolidated classes in CSS that have duplicate values and switched to semantic HTML elements. 
